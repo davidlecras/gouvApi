@@ -1,3 +1,12 @@
 h1,h2,h3{
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.appWebsite{
+  min-height: 100vh;
+  margin-bottom: -40px;
+}
+
+footer , .minApp{
+  height: 40px;
+}
