@@ -7,7 +7,7 @@ const navbar = (props) => {
     <>
       <Navbar bg="dark" variant="dark" expand="lg">
         <LinkContainer to="/">
-          <Navbar.Brand>IDF</Navbar.Brand>
+          <Navbar.Brand>VDO</Navbar.Brand>
         </LinkContainer>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

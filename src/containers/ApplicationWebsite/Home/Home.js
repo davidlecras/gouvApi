@@ -7,10 +7,10 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <Title>Bienvenue sur le site de la Région Île-de-France</Title>
+        <Title>Bienvenue sur le site du département du Val-d'Oise</Title>
         <Alert variant="info" className="text-center">
           Le site qui vous aide à trouver les établissements publics
-          d'Île-deFrance
+          du Val d'Oise.
         </Alert>
         <Image src={HomeImage} fluid style={{width:"100%"}} thumbnail/>
       </div>
